@@ -1,6 +1,6 @@
 abomination
 armpit
-arse
+arse-face
 bat-dropping
 bolt-catcher
 breadcrumb
@@ -34,7 +34,6 @@ gasbladder
 gimp
 git
 gnome
-goblin
 goblin-lover
 goblin-spawn
 gobshyte
@@ -43,8 +42,6 @@ half-wit
 idiot
 insect
 jaw-breaker
-kidneywipe
-kobold
 kobold-lover
 kobold-spawn
 ledge lizard
@@ -67,20 +64,18 @@ osquip
 pebble
 pestle
 piece of garbage
-pixie
+pixie-wing
 puddle of rat pee
 puke for brains
 pygmy
 pyrite-brained
-rat
 reprobate
 rockrunt
 rust eater
 rust-bucket
 rust-pile
-scab
+scalawag
 sewer rat
-shard
 shoe-chewer
 shortbeard
 slag-pile
@@ -91,10 +86,9 @@ spit-weaseal
 stalactite
 stench kow
 thumb-basher
-troll
-troll-barf
+troll-sputum
 troll-lover
 troll-spawn
 tunnel worm
 turd-pile
-weasel
+weasel-neck
