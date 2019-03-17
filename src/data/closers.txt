@@ -1,7 +1,7 @@
 abomination
 armpit
 arse-face
-bat-dropping
+bat guano
 bolt-catcher
 breadcrumb
 bugbear
@@ -23,8 +23,6 @@ dragonmaw
 dung hole
 dung-bucket
 dung pile
-elf-child
-elf-spawn
 fuzzpot
 garbage-pile
 gargoyle
@@ -33,7 +31,6 @@ gas spore
 gasbladder
 gimp
 git
-gnome
 goblin-lover
 goblin-spawn
 gobshyte
@@ -45,7 +42,7 @@ jaw-breaker
 kobold-lover
 kobold-spawn
 ledge lizard
-legless elf
+legless spider
 maggot
 manure stick
 mole
@@ -65,9 +62,9 @@ pebble
 pestle
 piece of garbage
 pixie-wing
+pile of dino dung
 puddle of rat pee
 puke for brains
-pygmy
 pyrite-brained
 reprobate
 rockrunt
@@ -84,9 +81,7 @@ smudge-rubber
 snake's egg
 spit-weaseal
 stalactite
-stench kow
 thumb-basher
-troll-sputum
 troll-lover
 troll-spawn
 tunnel worm
