@@ -95,6 +95,12 @@ fn roll_d20() -> u8 {
     roll
 }
 
+fn capitalize_first(s: String) -> String {
+    let mut v: Vec<char> = s.chars().collect();
+    v[0] = v[0].to_uppercase().nth(0).unwrap();
+    v.into_iter().collect()
+}
+
 pub fn generate_insult(config: &Config) -> String {
     let roll = roll_d20();
     let parts = parts_for_roll(roll);
@@ -104,5 +110,5 @@ pub fn generate_insult(config: &Config) -> String {
         .map(|part| config.random_part(part))
         .collect();
 
-    format!("{}!", words.join(" "))
+    capitalize_first(format!("{}!", words.join(", ")))
 }
