@@ -1,7 +1,14 @@
+use actix_web::server;
+
 mod insults;
+mod web;
 
 fn main() {
-    let config = insults::Config::from_files();
-    let insult = insults::generate_insult(config);
-    println!("{}", insult);
+    server::new(|| {
+        let config = insults::Config::from_files();
+        web::build_app(config)
+    })
+    .bind("127.0.0.1:8088")
+    .unwrap()
+    .run()
 }

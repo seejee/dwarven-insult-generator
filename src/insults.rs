@@ -8,6 +8,7 @@ enum InsultPart {
     Closer,
 }
 
+#[derive(Clone)]
 pub struct Config {
     openers: Vec<String>,
     middles: Vec<String>,
@@ -94,7 +95,7 @@ fn roll_d20() -> u8 {
     roll
 }
 
-pub fn generate_insult(config: Config) -> String {
+pub fn generate_insult(config: &Config) -> String {
     let roll = roll_d20();
     let parts = parts_for_roll(roll);
 

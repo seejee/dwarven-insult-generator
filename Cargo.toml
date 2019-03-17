@@ -6,3 +6,8 @@ edition = "2018"
 
 [dependencies]
 rand = "0.6.5"
+actix-web = "0.7"
+askama = { version = "0.8", features = ["with-actix-web"] }
+
+[build-dependencies]
+askama = "0.8"
