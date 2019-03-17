@@ -1,0 +1,11 @@
+{
+    "name": "Bard Tools - Insult Generator",
+    "description": "Tools for bringing some bardly, Dwarven fun to a D&D game",
+    "repository": "https://github.com/seejee/insult-generator",
+    "success_url": "/",
+    "keywords": ["rust", "actix"],
+    "website": "https://github.com/seekee/insult-generator",
+    "env": {
+      "BUILDPACK_URL": "https://github.com/emk/heroku-buildpack-rust.git"
+    }
+}
